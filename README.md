@@ -1,3 +1,4 @@
+[![Build Status](https://ulnygit.visualstudio.com/pipeline-study/_apis/build/status/Maven%20CI?branchName=master)](https://ulnygit.visualstudio.com/pipeline-study/_build/latest?definitionId=15&branchName=master)
 
 # Contributing
 
